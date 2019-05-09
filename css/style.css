@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: "Georgia", serif;
 	background:#ffffff;
 	margin: 0;
 }
@@ -15,7 +15,7 @@ p,ul li,ol li{
 	font-size:14px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Georgia', serif;
 	margin:0;
 }
 ul,label{
@@ -365,7 +365,7 @@ a.w3_agile_vimeo:hover{
     line-height: 28px;
 }
 .w3ls_banner_bottom_grids{
-	margin:5em 0 0; 
+	margin:5em 0 0;
 }
 .agileits_banner_bottom_grid_left{
 	text-align:center;
@@ -592,7 +592,7 @@ a.w3_agile_vimeo:hover{
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 32px;
 	height: 32px;
 	border: none;
@@ -1636,7 +1636,7 @@ button.close {
     width: 291px;
 }
 }
-@media (max-width: 640px){	
+@media (max-width: 640px){
 	#m_nav_menu {
 		width: 55px;
 		height: 55px;
@@ -1824,7 +1824,7 @@ button.close {
 .w3ls_banner_info p {
     font-size: 13px;
 	line-height:24px;
-}	
+}
 .about-bottom h3 {
     width: 100%;
 }
